@@ -1,5 +1,6 @@
 @media screen and(max-width:600px) {}
 
 #welcome-section {
-    width: fit-content;
+    height: 100%;
+    width: 100%;
 }
